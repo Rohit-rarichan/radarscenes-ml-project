@@ -66,6 +66,8 @@ def train_and_tune_models(X, y):
         results[name] = grid.best_estimator_
 
         joblib.dump(grid.best_estimator_, f"models/{name}.joblib")
+        
+        pd.DataFrame(grid.cv_results_).to_csv(f"results/tuning/{name}.csv", index=False)
 
     return results
 
