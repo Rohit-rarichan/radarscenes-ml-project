@@ -1,5 +1,6 @@
 # radarscenes-ml-project
 # Project Structure
+'''bash
 RadarScenes-ml-project/
 │
 ├── data/
@@ -39,3 +40,4 @@ RadarScenes-ml-project/
 │
 ├── environment.yml
 └── README.md
+'''
