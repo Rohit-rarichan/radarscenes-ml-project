@@ -1,14 +1,14 @@
 # radarscenes-ml-project
-# Project Structur
-#Machine Learning Pipeline for Radar Object Classification
-#This project builds a complete end-to-end classical machine learning pipeline for the RadarScenes dataset, focusing on:
-#Data preprocessing & cleaning
-#Feature engineering
-#Dataset balancing
-#Model training (LogReg, SVM, RF, KNN)
-#Evaluation & confusion matrices
-#Basic radar-to-camera projection
-#Exploratory visualizations (range/azimuth, RCS/Doppler, class distributions)
+# Project Structure
+# Machine Learning Pipeline for Radar Object Classification
+# This project builds a complete end-to-end classical machine learning pipeline for the RadarScenes dataset, focusing on:
+# Data preprocessing & cleaning
+# Feature engineering
+# Dataset balancing
+# Model training (LogReg, SVM, RF, KNN)
+# Evaluation & confusion matrices
+# Basic radar-to-camera projection
+# Exploratory visualizations (range/azimuth, RCS/Doppler, class distributions)
 ```bash
 RadarScenes-ml-project/
 │
