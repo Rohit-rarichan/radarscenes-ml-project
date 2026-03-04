@@ -206,5 +206,5 @@ Why BEV?
 
 ## Acknowledgments
 - RadarScenes Dataset Creators
-- UCI (ICS 171) Staff
+- UCI (CS 178) Staff
 - OpenRadar and autonomous driving research community
